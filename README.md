@@ -19,6 +19,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
-TESTE Aplicação para teste de aprendizado em java/Listapedidos
+Aplicação para teste de aprendizado em java / ListaPedidos
 Uso das novas features da linguagem
 
+=======
+Rodrigo Laia
